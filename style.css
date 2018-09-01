@@ -1,0 +1,12 @@
+//** Changing a few elements on page **//
+
+strong{
+    margin-left: 15px;
+}
+
+footer{   
+    text-align: center;
+    border-top: solid 8px #17a2b8;
+}
+
+
